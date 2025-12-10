@@ -9,7 +9,7 @@ import Industries from "../pages/industry/Industries";
 import AboutCompany from "../pages/company/section/AboutCompany";
 import Company from "../pages/company/Company";
 import { Carpenter } from "@mui/icons-material";
-import Career from "../pages/career/career";
+import Career from "../pages/career/Career";
 import GetQuote from "../pages/getQuote/GetQuote";
 import ContactUs from "../pages/contact/ContactUs";
 
